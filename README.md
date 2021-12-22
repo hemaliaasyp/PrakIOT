@@ -23,3 +23,6 @@ PENJELASAN KIRIM DATA.PHP
 -Pada baris 2 menyambungkan koneksi dengan DB yang sudah dibuat
 -Pada baris 4  mendapatkan nilai sensor dari arduino
 -Pada baris 6 Mengubah nilai kedalam database
+
+LINK VIDEO
+https://drive.google.com/drive/folders/1oJxk55WhI4ppwHz6_d18UI6BO5dUowqn?usp=sharing
