@@ -1,4 +1,9 @@
 # PrakIOT
+ALAT
+-Node MCU ESP8266
+-ARDUINO UNO
+-Sensor Ultrasonic
+
 PENJELASAN ARDUINO
 -Pada baris 1 sampai 3 memasukan library yang digunakan
 -Pada baris 6 sampai 8 menyatakan jaringan yang digunakan
